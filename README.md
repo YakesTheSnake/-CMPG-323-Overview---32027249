@@ -1,11 +1,11 @@
 # -CMPG-323-Overview---32027249
 Project Number      Repository title
-project 1           Project 1
-project 2           Project 2
-project 3           Project 3
-project 4           Project 4
-project 5           Project 5
-Exam(POE)           Portfolio of evidince
+project 1:           Project 1
+project 2:           Project 2
+project 3:           Project 3
+project 4:           Project 4
+project 5:           Project 5
+Exam(POE):           Portfolio of evidince
 
 Branching strategy:
 i will be using the github flow branching strategy in all ofthe projects, this strategy works as follows:
